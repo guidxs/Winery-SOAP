@@ -1,0 +1,14 @@
+br\com\fiap\winery\client\ObjectFactory.class
+br\com\fiap\winery\client\GetMenuResponse.class
+br\com\fiap\winery\client\PlaceOrder.class
+br\com\fiap\Main.class
+br\com\fiap\winery\client\SendWarn.class
+br\com\fiap\winery\client\GetMenu.class
+br\com\fiap\winery\client\package-info.class
+br\com\fiap\winery\client\PlaceOrderResponse.class
+br\com\fiap\winery\client\SendWarnResponse.class
+br\com\fiap\winery\client\WineWarningServiceImplementationService.class
+br\com\fiap\winery\ApplicationClient2.class
+br\com\fiap\winery\client\WineWarningService.class
+br\com\fiap\winery\client\WineStockService.class
+br\com\fiap\winery\client\WineStockServiceImplementationService.class

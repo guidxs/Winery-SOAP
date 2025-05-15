@@ -1,0 +1,9 @@
+br\com\fiap\winery\client\ObjectFactory.class
+br\com\fiap\winery\client\GetMenuResponse.class
+br\com\fiap\winery\client\PlaceOrder.class
+br\com\fiap\Main.class
+br\com\fiap\winery\client\GetMenu.class
+br\com\fiap\winery\client\WineStockService.class
+br\com\fiap\winery\client\WineStockServiceImplementationService.class
+br\com\fiap\winery\client\package-info.class
+br\com\fiap\winery\client\PlaceOrderResponse.class
