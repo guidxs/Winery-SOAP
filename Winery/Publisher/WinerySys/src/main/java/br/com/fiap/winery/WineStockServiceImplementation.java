@@ -7,12 +7,12 @@ public class WineStockServiceImplementation implements WineStockService {
 
     @Override
     public String getMenu() {
-        return "Tipos de uvas disponíveis:\n"
-                + "- Cabernet Sauvignon\n"
-                + "- Merlot\n"
-                + "- Chardonnay\n"
-                + "- Pinot Noir\n"
-                + "- Sauvignon Blanc";
+        return "Tipos de vinhos disponíveis:\n"
+                + "- Vinho Tinto\n"
+                + "- Vinho Branco\n"
+                + "- Vinho Seco\n"
+                + "- Vinho Doce\n"
+                + "- Vinho Suave";
     }
 
     @Override
